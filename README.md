@@ -1,6 +1,6 @@
 # Women's Rugby Couples Chart
 
-An interactive visualization of lesbian rugby couples using [vis-network](https://github.com/visjs/vis-network).  
+An interactive visualization of lesbian rugby relationships using [vis-network](https://github.com/visjs/vis-network).  
 Data is loaded from a spreadsheet (https://docs.google.com/spreadsheets/d/1s5PbDM30PQnKLbea5VpRRLz3qGRoXOHxKj5QhKAJNW4/edit?usp=sharing)
 ## Features
 - Interactive graph with search, filter, and reset.
