@@ -10,8 +10,8 @@ window.graphData = {
       "image": "img/kathryntreder.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(14, 83.58530034544229%, 65.29188035696642%)",
-        "border": "hsl(14, 83.58530034544229%, 65.29188035696642%)"
+        "background": "hsl(230, 73.3006631619266%, 69.4410237985718%)",
+        "border": "hsl(230, 73.3006631619266%, 69.4410237985718%)"
       },
       "font": {
         "color": "#000",
@@ -28,8 +28,8 @@ window.graphData = {
       "image": "img/alevkelter.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(14, 83.58530034544229%, 65.29188035696642%)",
-        "border": "hsl(14, 83.58530034544229%, 65.29188035696642%)"
+        "background": "hsl(230, 73.3006631619266%, 69.4410237985718%)",
+        "border": "hsl(230, 73.3006631619266%, 69.4410237985718%)"
       },
       "font": {
         "color": "#000",
