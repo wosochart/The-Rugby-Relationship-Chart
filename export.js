@@ -237,4 +237,3 @@ function checkRows() {
   }
   showResult(result);
 }
->>>>>>> e7e6ed9 (first push)
