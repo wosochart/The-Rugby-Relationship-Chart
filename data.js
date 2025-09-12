@@ -7,11 +7,11 @@ window.graphData = {
       "team": "Bay Breakers",
       "shape": "circularImage",
       "value": 36,
-      "image": "img/kathryntreder.jpg",
+      "image": "img/KathrynTreder.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(230, 73.3006631619266%, 69.4410237985718%)",
-        "border": "hsl(230, 73.3006631619266%, 69.4410237985718%)"
+        "background": "hsl(29, 82.25676312873816%, 66.47543889935632%)",
+        "border": "hsl(29, 82.25676312873816%, 66.47543889935632%)"
       },
       "font": {
         "color": "#000",
@@ -25,11 +25,11 @@ window.graphData = {
       "team": "Bay Breakers",
       "shape": "circularImage",
       "value": 36,
-      "image": "img/alevkelter.jpg",
+      "image": "img/AlevKelter.jpg",
       "brokenImage": "img/nonplayer.jpg",
       "color": {
-        "background": "hsl(230, 73.3006631619266%, 69.4410237985718%)",
-        "border": "hsl(230, 73.3006631619266%, 69.4410237985718%)"
+        "background": "hsl(29, 82.25676312873816%, 66.47543889935632%)",
+        "border": "hsl(29, 82.25676312873816%, 66.47543889935632%)"
       },
       "font": {
         "color": "#000",
